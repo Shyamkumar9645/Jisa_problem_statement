@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807336510982",
+    "project_id": "jisa-1327e",
+    "storage_bucket": "jisa-1327e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807336510982:android:b0e80627e445be1c626587",
+        "android_client_info": {
+          "package_name": "com.example.jisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807336510982-9ngnnu1muv1q0ecke3cemf356cva7rep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsgsdfDO9Pitj9UqvCijmBH0iFg2Jlp88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807336510982-9ngnnu1muv1q0ecke3cemf356cva7rep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
